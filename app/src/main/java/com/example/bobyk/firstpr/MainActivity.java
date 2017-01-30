@@ -27,5 +27,6 @@ public class MainActivity extends AppCompatActivity {
                 textView.setText(String.valueOf(k));
             }
         });
+        System.out.println("dasdasdas");
     }
 }
